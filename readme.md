@@ -1,2 +1,1 @@
-this is new repo
-clear
+# this is new repo
